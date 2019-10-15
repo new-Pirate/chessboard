@@ -1,3 +1,5 @@
+console.log('branch-1');
+
 //Обертка для числовых полей
 
 $(".wrapChessBoard").css({
